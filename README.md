@@ -14,8 +14,8 @@ The current version includes 9 task categories with a total of 10,888 samples, c
 ## Data Release and Access Policy
 UndergrBench is released under a controlled access mechanism.
 Researchers who wish to obtain the UndergrBench dataset may submit a request via email to zhenhao_xu@sdu.edu.cn. The application should include:
-- Researcher identification and institutional affiliation
-- A brief description of the intended research purpose
+- Researcher identification and institutional affiliation.
+- A brief description of the intended research purpose.
 - A commitment that the data will be used solely for academic research, will not be used for model training, will not be redistributed to third parties, and that all relevant data usage terms will be respected.
 
 Upon receiving complete application information, we will complete the review and provide feedback within a reasonable time frame. Once approved, access to the benchmark dataset and the corresponding data format documentation will be provided.
